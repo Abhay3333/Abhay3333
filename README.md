@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on Web & Android Development
 
-- 🌱 I’m currently learning **MERN STACK** & React Native
+- 🌱 I’m currently learning **MERN STACK** & Machine Learning
 
 - 👨‍💻 All of my projects are available at [https://abhay-upadhaya.vercel.app/](https://abhay-upadhaya.vercel.app/)
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **abhayupadhaya829@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abhay-upadhaya-b23526235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +29,3 @@
   </p>
 </div>
 
-/*[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhay3333&theme=dark&hide_border=true)](https://git.io/streak-stats)*/
