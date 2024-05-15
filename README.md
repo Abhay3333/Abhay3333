@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Upadhaya</h1>
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" width="400" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZpN2J5a2p2Z3R3ODZyZzM0eml2eG50ZGl6d3gxOHMweXczdno4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
 
 
 - 🔭 I’m currently working on Web & Android Development
