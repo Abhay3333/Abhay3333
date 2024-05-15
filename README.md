@@ -29,4 +29,4 @@
   </p>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhay3333&theme=dark&hide_border=true)](https://git.io/streak-stats)
+/*[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhay3333&theme=dark&hide_border=true)](https://git.io/streak-stats)*/
