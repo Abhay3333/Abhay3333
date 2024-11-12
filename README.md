@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN STACK** & Machine Learning
 
-- 👨‍💻 All of my projects are available at [https://abhay-upadhaya.vercel.app/](https://abhay-upadhaya.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Abhay3333](https://github.com/Abhay3333?tab=repositories)
 
 - 💬 Ask me about **WEB DEVELOPMENT**
 
