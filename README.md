@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhay3333](https://github.com/Abhay3333?tab=repositories)
 
-- 💬 Ask me about **WEB DEVELOPMENT**
+- 💬 Ask me about **WEB DEVELOPMENT, Full Stack Development**
 
 - 📫 How to reach me **abhayupadhaya829@gmail.com**
 
