@@ -18,7 +18,7 @@
 ---
 
 ### 🏆 Featured Project: LogLogic
-<a href="https://github.com/Abhay3333/Loglogic">
+<a href="[https://github.com/Abhay3333/Loglogic](https://github.com/Abhay3333/Loglogic-Frontend-)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay3333&repo=Loglogic&theme=vue-dark&show_icons=true&hide_border=true" />
 </a>
 
